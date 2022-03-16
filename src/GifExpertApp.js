@@ -30,7 +30,7 @@ return (
     <ol>
         {
             categories.map(category => (
-            <GifGrid key= {category }category={ category }></GifGrid>
+            <GifGrid key={category } category={ category }></GifGrid>
 
             )) 
         }    
