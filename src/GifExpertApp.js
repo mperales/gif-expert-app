@@ -1,7 +1,7 @@
 import { useState } from "react/cjs/react.development"
 import { AddCategory } from "./components/AddCategory";
 import { GifGrid } from "./components/GifGrid";
-import { DeleteCategories } from "./components/DeleteCategories";
+
 
 
 export const GifExpertApp = () => {
